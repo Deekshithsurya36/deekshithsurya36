@@ -1,6 +1,13 @@
 # 💫 About Me:
-                                           Hi 👋, I'm Deekshith B<br><br>       A passionate learner in AI/ML and Full Stack Development from India 🇮🇳<br>                                    <br><br> 🎓  I’m a Student at BMS College of Engineering, Bengaluru<br><br> 🌱 Currently exploring the world of Artificial Intelligence & Machine Learning 🤖<br><br> 🎥 I regularly practice coding and upload tech content on my YouTube Channel - Coding Utsava (https://youtube.com/@codingutsava)<br><br> 📫 How to reach me: yourmail@gmail.com<br><br> ⚡Fun fact: I believe Skills > Degree 🚀<br>
+   # Hi 👋, I'm Deekshith B  
 
+A passionate learner in *AI/ML* and *Full Stack Development* from India 🇮🇳  
+
+- 🎓 Student at *BMS College of Engineering, Bengaluru*  
+- 🌱 Currently exploring *Artificial Intelligence & Machine Learning (AI/ML)* 🤖  
+- 🎥 I regularly practice coding and upload tech content on my YouTube channel: [Coding Utsava](https://youtube.com/@codingutsava)  
+- 📫 How to reach me: *yourmail@gmail.com*  
+- ⚡ Fun fact: I believe Skills > Degree 🚀                              
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_utsava) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coding_utsava36) 
