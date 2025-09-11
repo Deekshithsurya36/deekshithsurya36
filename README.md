@@ -1,7 +1,7 @@
 # 💫 About Me:
-                            # Hi 👋, I'm Deekshith B  
+  # Hi 👋, I'm Deekshith B  
 
-         A passionate learner in *AI/ML* and *Full Stack Development* from India 🇮🇳  
+ A passionate learner in *AI/ML* and *Full Stack Development* from India 🇮🇳  
 
 - 🎓 Student at *BMS College of Engineering, Bengaluru*  
 - 🌱 Currently exploring *Artificial Intelligence & Machine Learning (AI/ML)* 🤖  
