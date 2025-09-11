@@ -1,12 +1,12 @@
 # 💫 About Me:
-   # Hi 👋, I'm Deekshith B  
+                            # Hi 👋, I'm Deekshith B  
 
-A passionate learner in *AI/ML* and *Full Stack Development* from India 🇮🇳  
+         A passionate learner in *AI/ML* and *Full Stack Development* from India 🇮🇳  
 
 - 🎓 Student at *BMS College of Engineering, Bengaluru*  
 - 🌱 Currently exploring *Artificial Intelligence & Machine Learning (AI/ML)* 🤖  
 - 🎥 I regularly practice coding and upload tech content on my YouTube channel: [Coding Utsava](https://youtube.com/@codingutsava)  
-- 📫 How to reach me: *yourmail@gmail.com*  
+- 📫 How to reach me: *deekshithsurya167@gmail.com*  
 - ⚡ Fun fact: I believe Skills > Degree 🚀                              
 
 ## 🌐 Socials:
