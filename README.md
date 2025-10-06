@@ -6,7 +6,7 @@
 - 🎓 Student at *BMS College of Engineering, Bengaluru*  
 - 🌱 Currently exploring *Artificial Intelligence & Machine Learning (AI/ML)* 🤖  
 - 🎥 I regularly practice coding and upload tech content on my YouTube channel: [Coding Utsava](https://www.youtube.com/@coding_utsava36)  
-- 📫 How to reach me: *deekshithsurya167@gmail.com*  
+- 📫 How to reach me: *deekshithsurya369@gmail.com*  
 - ⚡ Fun fact: I believe Skills > Degree 🚀                              
 
 ## 🌐 Socials:
