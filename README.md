@@ -7,7 +7,7 @@
 - 🌱 Currently exploring *Artificial Intelligence & Machine Learning (AI/ML)* 🤖  
 - 🎥 I regularly practice coding and upload tech content on my YouTube channel: [Coding Utsava](https://www.youtube.com/@coding_utsava36)  
 - 📫 How to reach me: *deekshithsurya369@gmail.com*  
-- ⚡ Fun fact: I believe Skills > Degree 🚀                              
+                               
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_utsava) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coding_utsava36) 
